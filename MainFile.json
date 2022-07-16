@@ -1,7 +1,6 @@
 {
   "status": "success",
-  "data": [
-    {
+  "data" :  {
       "AD_Priority_FB/Google" : "Google",
       
       "G_BannerAd1": "ca-app-pub-xyz3940256099942544/6300978111",
@@ -60,5 +59,4 @@
       "RecycleViewPosition": "2",
       "RecycleViewAdSize_Small/Large/Big": "Small"
     }
-  ]
 }
